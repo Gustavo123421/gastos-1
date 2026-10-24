@@ -1,0 +1,21 @@
+MEUS GASTOS - APLICATIVO
+
+1) COLOCAR NA INTERNET (grátis)
+   - Abra app.netlify.com/drop no navegador (de preferência no computador).
+   - Descompacte este zip e arraste a PASTA com os arquivos para a página.
+   - Você recebe um link. CRIE UMA CONTA GRÁTIS NA NETLIFY LOGO EM SEGUIDA
+     para "reivindicar" o site. Sem isso o site é apagado em pouco tempo.
+
+2) INSTALAR NO CELULAR
+   - iPhone: abra o link no Safari > Compartilhar > Adicionar à Tela de Início.
+   - Android: abra o link no Chrome > menu (três pontinhos) > Instalar app.
+
+3) NÃO PERCA SEUS DADOS
+   Os dados ficam salvos só no navegador do aparelho onde você usa.
+   Antes de mudar de link ou de celular: Configurações > Backup dos dados >
+   Gerar backup, e guarde o texto. No novo lugar, cole e toque em Restaurar.
+
+4) ATUALIZAR O APP DEPOIS
+   Se você trocar o index.html por uma versão nova, mude também o nome
+   "gastos-v1" no começo do arquivo sw.js (por exemplo para "gastos-v2"),
+   senão o celular pode continuar mostrando a versão antiga.
